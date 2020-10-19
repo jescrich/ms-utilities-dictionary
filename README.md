@@ -44,6 +44,7 @@ It returns all possible combinations, as well all the english valid words.
 ```java
     mvn test
 ```
+> There's github action that runs the CI and a unit tests report https://github.com/jescrich/ms-utilities-dictionary/actions
 
 ## Install in your local maven repository
 ```java
