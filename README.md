@@ -27,6 +27,7 @@ It returns all possible combinations, as well all the english valid words.
 - Matcher consider all substrings lengths as a possible english words, starting from a minimun length of 2.
 - Matcher has a strategy pattern, that has only one implemented which is PermutationMatcherStrategy
 - Matcher eventually can use different strategies that can be more performant but is out of the scope of the exercise.
+- Dictionary could be multilingual easily, but is out of the scope of the given excersise
 
 ### Design
 
