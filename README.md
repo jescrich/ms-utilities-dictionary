@@ -1,6 +1,6 @@
 # Microsoft Dictionary String Based Utility
 
-![Build / UnitTests](https://github.com/jescrich/ms-utils-dictionary/workflows/Java%20CI%20with%20Maven/badge.svg)
+![Java CI](https://github.com/jescrich/ms-utilities-dictionary/workflows/Java%20CI/badge.svg)
 
 ## Author
 @jescrich
